@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @thurman615
-- 👀 I’m tired
-- 🌱 I’m hungry
-- 💞️ I’m student
 - 📫 How to reach me ...email to mjoo1506@gmail.com
 
 <!---
